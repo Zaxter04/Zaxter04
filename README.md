@@ -4,7 +4,7 @@
 
 I’m a software developer interested in systems programming, C/C++, and DevOps.
 
-Currently studying at 42 Network and working on low-level projects like minishell and fract-ol.
+Currently studying at 42 Network and working on low-level projects.
 
 ## 💻 Skills
 - C, C++
